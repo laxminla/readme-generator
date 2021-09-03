@@ -1,0 +1,39 @@
+# Title of your project
+README Generator
+
+
+## Description
+This is a command line application that runs with Node.js which dinamically generates a Readme file based on input about your project.
+
+
+## Installation
+- created index.js file.
+- installed inquirer package using npm init.
+- setup gitignore file.
+
+
+## Usages
+When you run node index.js file, you will answers the questions that were set up in the prompts. 
+
+
+## Contribution
+pull requests are welcome. For any changes, please open an issue first and mention what you would like to talk.
+
+
+## Tests
+I tried example codes learning from class during Node.js session.
+
+
+## License
+ISC
+
+
+## Git
+https://drive.google.com/file/d/1qgqBrJG6dcgEVZOFn0Epg1aiU_n9ZQaD/view
+
+
+## Linkedin
+laxminla@linkedin.com
+
+## E-mail
+laxminla@yahoo.com
